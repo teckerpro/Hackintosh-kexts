@@ -19,3 +19,9 @@ Here is presented common kexts
 ## Audio
 ##### AppleALC: [GitHub Acidanthera](https://github.com/acidanthera/AppleALC/releases)
 ##### VoodooHDA: [SourceForge](https://sourceforge.net/projects/voodoohda/files/), [GitHub](https://github.com/chris1111/VoodooHDA-2.9.2-Clover-V14/releases)
+---
+## USB (Temporary kext. Don't use it on based terms!)
+##### USBInjectAll: [BitBucket RahabMan](https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/)
+---
+## Nvidia Web Driver
+##### [Script for download the latest driver](https://github.com/Benjamin-Dobell/nvidia-update)
