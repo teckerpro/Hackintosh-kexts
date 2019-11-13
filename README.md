@@ -1,6 +1,9 @@
 # Description
 Here is presented common kexts
 
+## Bootloaders
+##### Clover: [GitHub Slice](https://github.com/CloverHackyColor/CloverBootloader/releases)
+---
 ## Common
 ##### Lilu: [GitHub Acidanthera](https://github.com/acidanthera/Lilu/releases)
 ##### VirtualSMC: [GitHub Acidanthera](https://github.com/acidanthera/VirtualSMC/releases)
