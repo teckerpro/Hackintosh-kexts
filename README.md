@@ -3,6 +3,7 @@ Here is presented common kexts
 
 ## Bootloaders
 ##### Clover: [GitHub Slice](https://github.com/CloverHackyColor/CloverBootloader/releases)
+##### OpenCore: [GitHub Acidanthera](https://github.com/acidanthera/OpenCorePkg/releases)
 ---
 ## Common
 ##### Lilu: [GitHub Acidanthera](https://github.com/acidanthera/Lilu/releases)
