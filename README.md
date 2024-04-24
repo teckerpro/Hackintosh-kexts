@@ -11,6 +11,8 @@ Here is presented common kexts
 ##### IORegistryExplorer: [GitHub](https://github.com/khronokernel/IORegistryClone/blob/master/ioreg-302.zip)
 ##### USBMap: [GitHub](https://github.com/corpnewt/USBMap)
 ##### USBToolBox: [GitHub tool](https://github.com/USBToolBox/tool) + [GitHub kext](https://github.com/USBToolBox/kext)
+##### GenSMBIOS: [GitHub](https://github.com/corpnewt/GenSMBIOS)
+##### Hackintool: [GitHub](https://github.com/benbaker76/Hackintool)
 ---
 ## Common
 ##### Lilu: [GitHub Acidanthera](https://github.com/acidanthera/Lilu)
