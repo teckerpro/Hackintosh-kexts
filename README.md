@@ -43,7 +43,7 @@ To fix this issue, you can use CpuTscSync or VoodooTSCSync.
 ---
 ## Audio
 ##### AppleALC: [GitHub Acidanthera](https://github.com/acidanthera/AppleALC)
-##### VoodooHDA: [SourceForge](https://sourceforge.net/projects/voodoohda/files/), [GitHub](https://github.com/chris1111/VoodooHDA-2.9.2-Clover-V14/releases)
+##### VoodooHDA: [GitHub Slice](https://github.com/CloverHackyColor/VoodooHDA), [SourceForge](https://sourceforge.net/projects/voodoohda/files/)
 ---
 ## USB (Temporary kext. Don't use it on based terms!)
 ##### USBInjectAll: [BitBucket RahabMan](https://bitbucket.org/RehabMan/os-x-usb-inject-all/)
