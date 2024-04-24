@@ -4,9 +4,11 @@ Here is presented common kexts
 ## Bootloaders
 ##### Clover: [GitHub Slice](https://github.com/CloverHackyColor/CloverBootloader)
 ##### OpenCore: [GitHub Acidanthera](https://github.com/acidanthera/OpenCorePkg)
+##### Dortania: [Guide](https://dortania.github.io/) [GutHub sources](https://github.com/dortania)
 ---
 ## Tools
 ##### MacASL: [GitHub Acidanthera](https://github.com/acidanthera/MaciASL)
+##### IORegistryExplorer: [GitHub](https://github.com/khronokernel/IORegistryClone/blob/master/ioreg-302.zip)
 ##### USBMap: [GitHub](https://github.com/corpnewt/USBMap)
 ##### USBToolBox: [GitHub tool](https://github.com/USBToolBox/tool) + [GitHub kext](https://github.com/USBToolBox/kext)
 ---
