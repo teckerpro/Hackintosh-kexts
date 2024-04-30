@@ -25,6 +25,8 @@ Mostly for non native platforms, such as laptops, HEDT, AMD
 - ssdtPRgen: [GitHub](https://github.com/Piker-Alpha/ssdtPRGen.sh)
 - CPUFriend: [GitHub Acidanthera](https://github.com/acidanthera/CPUFriend)
 - CPUFriendFriend: [GitHub](https://github.com/corpnewt/CPUFriendFriend)
+##### Unsupported AMD CPU
+- AMD Power gadget: [GitHub](https://github.com/trulyspinach/SMCAMDProcessor)
 
 The TSC(Time Stamp Counter) is responsible for making sure you're hardware is running at the correct speed, problem is some firmware(mainly HEDT/Server and Asus Laptops) will not write the TSC to all cores causing issues. To get around this, we have 3 options:
 - CpuTscSync (for troublesome laptops, HEDT and server motherboards): [GitHub Acidanthera](https://github.com/acidanthera/CpuTscSync)
@@ -36,8 +38,8 @@ The TSC(Time Stamp Counter) is responsible for making sure you're hardware is ru
 - Nvidia web driver downloader: [GitHub](https://github.com/Benjamin-Dobell/nvidia-update)
 - VDADecoderCheck: [GitHub](https://github.com/breuhan/VDADecoderCheck)
 ##### AMD unsupported GPUs
-- NootRX (for unsuported RDNA2 dGPU. All work except of DRM features.) [GitHub](https://github.com/ChefKissInc/NootRX)
-- NootedRed (for Vega iGPU) [GitHub](https://github.com/ChefKissInc/NootedRed)
+- NootRX (for unsuported RDNA2 dGPU. All work except of DRM features): [GitHub](https://github.com/ChefKissInc/NootRX)
+- NootedRed (for Vega iGPU): [GitHub](https://github.com/ChefKissInc/NootedRed)
 --
 ## LAN Network
 - IntelMausi: [GitHub Acidanthera](https://github.com/acidanthera/IntelMausi), [GitHub Mieze](https://github.com/Mieze/IntelMausiEthernet), [Insanelymac Mieze](https://www.insanelymac.com/forum/files/file/396-intelmausiethernet/)
