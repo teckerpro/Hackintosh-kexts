@@ -35,6 +35,9 @@ The TSC(Time Stamp Counter) is responsible for making sure you're hardware is ru
 - WhateverGreen: [GitHub Acidanthera](https://github.com/acidanthera/WhateverGreen)
 - Nvidia web driver downloader: [GitHub](https://github.com/Benjamin-Dobell/nvidia-update)
 - VDADecoderCheck: [GitHub](https://github.com/breuhan/VDADecoderCheck)
+##### AMD unsupported GPUs
+- NootRX (for unsuported RDNA2 dGPU. All work except of DRM features.) [GitHub](https://github.com/ChefKissInc/NootRX)
+- NootedRed (for Vega iGPU) [GitHub](https://github.com/ChefKissInc/NootedRed)
 --
 ## LAN Network
 - IntelMausi: [GitHub Acidanthera](https://github.com/acidanthera/IntelMausi), [GitHub Mieze](https://github.com/Mieze/IntelMausiEthernet), [Insanelymac Mieze](https://www.insanelymac.com/forum/files/file/396-intelmausiethernet/)
@@ -51,6 +54,7 @@ The TSC(Time Stamp Counter) is responsible for making sure you're hardware is ru
 - USBMap: [GitHub](https://github.com/corpnewt/USBMap)
 - USBToolBox: [GitHub tool](https://github.com/USBToolBox/tool) + [GitHub kext](https://github.com/USBToolBox/kext)
 - USBInjectAll (XHCI-unsupported. Temporary kext. Don't use it on based terms): [BitBucket RahabMan](https://bitbucket.org/RehabMan/os-x-usb-inject-all/)
+---
 ## [Intel Wireless](https://openintelwireless.github.io/)
 - itlwm [GitHub OpenIntelWireless](https://github.com/OpenIntelWireless/itlwm)
 - IntelBluetoothFirmware [GitHub OpenIntelWireless](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
