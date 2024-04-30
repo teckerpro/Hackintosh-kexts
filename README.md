@@ -32,15 +32,16 @@ The TSC(Time Stamp Counter) is responsible for making sure you're hardware is ru
 - TSCAdjustReset (Skylake X/W/SP and Cascade Lake X/W/SP hardware): [GitHub](https://github.com/interferenc/TSCAdjustReset) or [compiled version](https://github.com/dortania/OpenCore-Install-Guide/blob/master/extra-files/TSCAdjustReset.kext.zip)
 
 ##### Unsupported AMD CPU
-- AMD Power gadget: [GitHub](https://github.com/trulyspinach/SMCAMDProcessor)
+- AMD Power Gadget and SMCAMDProcessor: [GitHub ChefKissInc](https://github.com/trulyspinach/SMCAMDProcessor)
 ---
 ## Graphics
 - WhateverGreen: [GitHub Acidanthera](https://github.com/acidanthera/WhateverGreen)
 - Nvidia web driver downloader: [GitHub](https://github.com/Benjamin-Dobell/nvidia-update)
 - VDADecoderCheck: [GitHub](https://github.com/breuhan/VDADecoderCheck)
+- SMCRadeonSensors (temperature monitor for AMD GPU):  [GitHub ChefKissInc](https://github.com/ChefKissInc/SMCRadeonSensors)
 ##### AMD unsupported GPUs
-- NootRX (for unsuported RDNA2 dGPU. All work except of DRM features): [GitHub](https://github.com/ChefKissInc/NootRX)
-- NootedRed (for Vega iGPU): [GitHub](https://github.com/ChefKissInc/NootedRed)
+- NootRX (for unsuported RDNA2 dGPU. All work except of DRM features): [GitHub ChefKissInc](https://github.com/ChefKissInc/NootRX)
+- NootedRed (for Vega iGPU): [GitHub ChefKissInc](https://github.com/ChefKissInc/NootedRed)
 ---
 ## LAN Network
 - IntelMausi: [GitHub Acidanthera](https://github.com/acidanthera/IntelMausi), [GitHub Mieze](https://github.com/Mieze/IntelMausiEthernet), [Insanelymac Mieze](https://www.insanelymac.com/forum/files/file/396-intelmausiethernet/)
