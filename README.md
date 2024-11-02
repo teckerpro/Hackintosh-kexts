@@ -50,6 +50,7 @@ The TSC(Time Stamp Counter) is responsible for making sure you're hardware is ru
 - RealtekLANv3: [GitHub Slice](https://github.com/SergeySlice/RealtekLANv3) [description](https://www.insanelymac.com/forum/topic/286937-realtekr1000-v3/)
 - RealtekRTL8100: [GitHub Mieze](https://github.com/Mieze/RealtekRTL8100), [Insanely Mieze](https://www.insanelymac.com/forum/files/file/259-realtekrtl8100-binary/)
 - AtherosE2200Ethernet: [GitHub Mieze](https://github.com/Mieze/AtherosE2200Ethernet), [Insanely Mieze](https://www.insanelymac.com/forum/files/file/313-atherose2200ethernet/)
+- Old Apple LAN: [Dortania](https://github.com/dortania/OpenCore-Legacy-Patcher/tree/main/payloads/Kexts/Ethernet)
 ---
 ## Audio
 - AppleALC: [GitHub Acidanthera](https://github.com/acidanthera/AppleALC)
