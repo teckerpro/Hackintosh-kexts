@@ -45,6 +45,7 @@ The TSC(Time Stamp Counter) is responsible for making sure you're hardware is ru
 ---
 ## LAN Network
 - IntelMausi: [GitHub Acidanthera](https://github.com/acidanthera/IntelMausi), [GitHub Mieze](https://github.com/Mieze/IntelMausiEthernet), [Insanelymac Mieze](https://www.insanelymac.com/forum/files/file/396-intelmausiethernet/)
+- AppleIGB: [GitHub Shaneee](https://github.com/Shaneee/AppleIGB)
 - RealtekRTL8111: [GitHub Mieze](https://github.com/Mieze/RTL8111_driver_for_OS_X), [Insanely Mieze](https://www.insanelymac.com/forum/files/file/88-realtekrtl8111-binary/)
 - RealtekLANv3: [GitHub Slice](https://github.com/SergeySlice/RealtekLANv3) [description](https://www.insanelymac.com/forum/topic/286937-realtekr1000-v3/)
 - RealtekRTL8100: [GitHub Mieze](https://github.com/Mieze/RealtekRTL8100), [Insanely Mieze](https://www.insanelymac.com/forum/files/file/259-realtekrtl8100-binary/)
