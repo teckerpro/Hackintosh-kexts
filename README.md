@@ -33,6 +33,7 @@ The TSC(Time Stamp Counter) is responsible for making sure you're hardware is ru
 
 ##### Unsupported AMD CPU
 - AMD Power Gadget and SMCAMDProcessor: [GitHub ChefKissInc](https://github.com/trulyspinach/SMCAMDProcessor)
+- AMD Vanilla patches: [GitHub AMD-OSX](https://github.com/AMD-OSX/AMD_Vanilla)
 ---
 ## Graphics
 - WhateverGreen: [GitHub Acidanthera](https://github.com/acidanthera/WhateverGreen)
@@ -40,8 +41,8 @@ The TSC(Time Stamp Counter) is responsible for making sure you're hardware is ru
 - VDADecoderCheck: [GitHub](https://github.com/breuhan/VDADecoderCheck)
 - SMCRadeonSensors (temperature monitor for AMD GPU):  [GitHub ChefKissInc](https://github.com/ChefKissInc/SMCRadeonSensors)
 ##### AMD unsupported GPUs
-- NootRX (for unsuported RDNA2 dGPU. All work except of DRM features): [GitHub ChefKissInc](https://github.com/ChefKissInc/NootRX)
-- NootedRed (for Vega iGPU): [GitHub ChefKissInc](https://github.com/ChefKissInc/NootedRed)
+- NootRX (for unsuported RDNA2 dGPU RX 6700(XT), RX 6750(XT), RX 6750 GRE. All work except of DRM features): [GitHub ChefKissInc](https://github.com/ChefKissInc/NootRX)
+- NootedRed (for AMD iGPU Ryzen 1xxx (Athlon Silver/Gold) to 5xxx, and 7x30 series): [GitHub ChefKissInc](https://github.com/ChefKissInc/NootedRed)
 ---
 ## LAN Network
 - IntelMausi: [GitHub Acidanthera](https://github.com/acidanthera/IntelMausi), [GitHub Mieze](https://github.com/Mieze/IntelMausiEthernet), [Insanelymac Mieze](https://www.insanelymac.com/forum/files/file/396-intelmausiethernet/)
@@ -52,6 +53,7 @@ The TSC(Time Stamp Counter) is responsible for making sure you're hardware is ru
 - RealtekRTL8100: [GitHub Mieze](https://github.com/Mieze/RealtekRTL8100), [Insanely Mieze](https://www.insanelymac.com/forum/files/file/259-realtekrtl8100-binary/)
 - AtherosE2200Ethernet: [GitHub Mieze](https://github.com/Mieze/AtherosE2200Ethernet), [Insanely Mieze](https://www.insanelymac.com/forum/files/file/313-atherose2200ethernet/)
 - Old Apple LAN: [Dortania](https://github.com/dortania/OpenCore-Legacy-Patcher/tree/main/payloads/Kexts/Ethernet)
+- Aquantia patches for AMD CPU: [GitHub CaseySJ](https://github.com/CaseySJ/Aquantia-macOS-Patches)
 ---
 ## Audio
 - AppleALC: [GitHub Acidanthera](https://github.com/acidanthera/AppleALC)
